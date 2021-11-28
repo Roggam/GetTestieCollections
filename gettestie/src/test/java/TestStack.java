@@ -1,5 +1,3 @@
-package rocks.zipcode;
-
 import static org.junit.Assert.*;
 import java.util.Stack;
 

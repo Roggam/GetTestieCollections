@@ -1,5 +1,3 @@
-package gettestie.src.main.java.rocks.zipcode;
-
 public class Address {
     private String street;
     private String town;
